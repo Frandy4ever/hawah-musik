@@ -1,0 +1,13 @@
+version: 2
+updates:
+  # Check npm dependencies in the root directory
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
+
+  # Add other package ecosystems if needed, e.g., GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
