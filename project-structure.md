@@ -1,3 +1,4 @@
+```
 hawah-musik/
 ├── src/
 │   ├── app/                             # Next.js App Router (replaces traditional pages directory)
@@ -80,3 +81,4 @@ hawah-musik/
 ├── README.md                            # Main project README with instructions and info
 ├── tailwind.config.ts                   # TailwindCSS configuration file
 ├── tsconfig.json                        # TypeScript compiler options
+```
