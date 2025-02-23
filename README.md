@@ -55,7 +55,7 @@
   - [Storybook](https://storybook.js.org/) for UI component development.
 
 ## Project Structure
-
+```
 hawah-musik/
 ├── components/ # UI components
 ├── pages/ # Next.js pages
@@ -68,7 +68,7 @@ hawah-musik/
 ├── tsconfig.json # TypeScript configuration
 ├── jest.config.js # Jest configuration
 ├── playwright.config.ts # Playwright configuration
-└── Dockerfile # Docker configuration
+└── Dockerfile # Docker configuration```
 
 ## Getting Started
 
