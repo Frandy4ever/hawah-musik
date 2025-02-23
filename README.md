@@ -57,18 +57,18 @@
 ## Project Structure
 ```
 hawah-musik/
-├── components/ # UI components
-├── pages/ # Next.js pages
-├── styles/ # Global and component styles
-├── utils/ # Utilities and custom hooks
-├── public/ # Public assets (images, icons)
-├── tests/ # Unit and e2e test files
-├── .prettierrc # Prettier configuration
-├── tailwind.config.js # TailwindCSS configuration
-├── tsconfig.json # TypeScript configuration
-├── jest.config.js # Jest configuration
-├── playwright.config.ts # Playwright configuration
-└── Dockerfile # Docker configuration
+├── components/            # UI components
+├── pages/                 # Next.js pages
+├── styles/                # Global and component styles
+├── utils/                 # Utilities and custom hooks
+├── public/                # Public assets (images, icons)
+├── tests/                 # Unit and e2e test files
+├── .prettierrc            # Prettier configuration
+├── tailwind.config.js     # TailwindCSS configuration
+├── tsconfig.json          # TypeScript configuration
+├── jest.config.js         # Jest configuration
+├── playwright.config.ts   # Playwright configuration
+└── Dockerfile             # Docker configuration
 ```
 
 ## Getting Started
