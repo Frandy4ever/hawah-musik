@@ -47,26 +47,42 @@
   - [Storybook](https://storybook.js.org/) for UI component development.
 
 ## Project Structure
-hawah-musik/ ├── components/ # UI components ├── pages/ # Next.js pages ├── styles/ # Global and component styles ├── utils/ # Utilities and custom hooks ├── public/ # Public assets (images, icons) ├── tests/ # Unit and e2e test files ├── .prettierrc # Prettier configuration ├── tailwind.config.js # TailwindCSS configuration ├── tsconfig.json # TypeScript configuration ├── jest.config.js # Jest configuration ├── playwright.config.ts # Playwright configuration └── Dockerfile # Docker configuration
+hawah-musik/
+├── components/           # UI components
+├── pages/                # Next.js pages
+├── styles/               # Global and component styles
+├── utils/                # Utilities and custom hooks
+├── public/               # Public assets (images, icons)
+├── tests/                # Unit and e2e test files
+├── .prettierrc           # Prettier configuration
+├── tailwind.config.js    # TailwindCSS configuration
+├── tsconfig.json         # TypeScript configuration
+├── jest.config.js        # Jest configuration
+├── playwright.config.ts  # Playwright configuration
+└── Dockerfile            # Docker configuration
 
 
 ## Getting Started
 1. **Install Dependencies:**  
    ```bash
    npm install
+   ```
 
 2. **Run the Development Server:**
   ```bash
   npm run dev
+  ```
 
 3. **Build and Start in Production Mode:**
   ```bash
   npm run build
   npm start
+  ```
 
 4. **Run Tests:**
   ```bash
   npm run test
+  ```
 
 ## Contributing
 This project is a work in progress. Contributions are welcome!
@@ -75,12 +91,11 @@ This project is a work in progress. Contributions are welcome!
 - Submit a pull request once your feature is ready.
 
 ## License
-[MIT](https://github.com/Frandy4ever/hawah-musik?tab=MIT-1-ov-file)
+[MIT](./LICENSE)
 
 ### Note: This README is a starting point and will be updated as new features are added.
 
 ## Contributors
-
 **Frandy Slueue**  
 - Owner and Project Manager  
 - Lead Developer  
