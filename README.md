@@ -68,7 +68,8 @@ hawah-musik/
 ├── tsconfig.json # TypeScript configuration
 ├── jest.config.js # Jest configuration
 ├── playwright.config.ts # Playwright configuration
-└── Dockerfile # Docker configuration```
+└── Dockerfile # Docker configuration
+```
 
 ## Getting Started
 
